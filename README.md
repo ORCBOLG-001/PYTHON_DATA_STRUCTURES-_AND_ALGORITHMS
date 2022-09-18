@@ -4,9 +4,9 @@ EXERCISE SOLUTIONS for Data Structures and Algorithms in Python (Michael T. Good
 ![Screenshot 2022-09-18 182217](https://user-images.githubusercontent.com/102049663/190903056-edc0f868-b689-4f99-aa33-3cc14464fdeb.jpg)
 
 1. Python Primer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SOLUTIONS](https://github.com/ORCBOLG-001/PYTHON_DATA_STRUCTURES_AND_ALGORITHMS/blob/main/CHAPTER_01_.py)
-2. Object-Oriented Programming
-3. Algorithm Analysis
-4. Recursion
+2. Object-Oriented Programming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a
+3. Algorithm Analysis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b
+4. Recursion&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c
 5. Array-Based Sequences
 6. Stacks, Queues, and Deques
 7. Linked Lists
