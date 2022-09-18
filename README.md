@@ -19,4 +19,4 @@ EXERCISE SOLUTIONS for Data Structures and Algorithms in Python (Michael T. Good
 14. Graph Algorithms
 15. Memory Management and B-Trees
 
-[a relative link](CHAPTER_01.py)
+[a relative link](https://github.com/ORCBOLG-001/PYTHON_DATA_STRUCTURES_AND_ALGORITHMS/blob/main/CHAPTER_01_.py)
