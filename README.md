@@ -18,3 +18,5 @@ EXERCISE SOLUTIONS for Data Structures and Algorithms in Python (Michael T. Good
 13. Text Processing
 14. Graph Algorithms
 15. Memory Management and B-Trees
+
+[a relative link](CHAPTER_01.py)
